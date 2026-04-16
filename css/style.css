@@ -1,5 +1,5 @@
 /*
-Author: XpeedStudio
+./assets/css/style.css of bbauska/assets for assets.bauska.org
 Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 */
 /* ==========================================================================
@@ -62,8 +62,8 @@ p {
 }
 /*ol,
 ul {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }*/
 
 ul {
@@ -72,7 +72,7 @@ ul {
 }
 
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
 textarea,
 input[type="text"],
@@ -98,7 +98,7 @@ input[type="color"],
   height: 45px;
 }
 .form-control:focus {
-    border-color: #82ca9c;
+  border-color: #82ca9c;
 }
 
 h1,
@@ -378,23 +378,23 @@ section .subtitle-half h5 {
   padding-bottom: 2.66rem;
 }
 .padding-top-60 {
-    padding-top: 5rem;
+  padding-top: 5rem;
 }
 .padding-bottom-60 {
-    padding-bottom: 5rem;
+  padding-bottom: 5rem;
 }
 .padding-bottom-0 {
-    padding-bottom: 0;
+  padding-bottom: 0;
 }
 /*padding*/
 .padding-twenty {
-    padding: 10px 0;
+  padding: 10px 0;
 }
 .padding-fourty {
-    padding: 20px 0;
+  padding: 20px 0;
 }
 .padding-sixty {
-    padding: 30px 0;
+  padding: 30px 0;
 }
 .padding-eighty {
     padding: 40px 0;
@@ -529,7 +529,6 @@ textarea::-ms-input-placeholder {
 .navbar-brand {
   margin-top:-5px;
 }
-
 
 /*For Home Section*/
 .home {
@@ -1244,100 +1243,100 @@ xkeyframes
     }
 }
 @keyframes cd-rotate {
-    0% {
-        -webkit-transform: perspective(2000px) rotateY(0);
-        -moz-transform: perspective(2000px) rotateY(0);
-        -ms-transform: perspective(2000px) rotateY(0);
-        -o-transform: perspective(2000px) rotateY(0);
-        transform: perspective(2000px) rotateY(0);
-    }
-    70% {
-        /* this creates the bounce effect */
-        -webkit-transform: perspective(2000px) rotateY(200deg);
-        -moz-transform: perspective(2000px) rotateY(200deg);
-        -ms-transform: perspective(2000px) rotateY(200deg);
-        -o-transform: perspective(2000px) rotateY(200deg);
-        transform: perspective(2000px) rotateY(200deg);
-    }
-    100% {
-        -webkit-transform: perspective(2000px) rotateY(180deg);
-        -moz-transform: perspective(2000px) rotateY(180deg);
-        -ms-transform: perspective(2000px) rotateY(180deg);
-        -o-transform: perspective(2000px) rotateY(180deg);
-        transform: perspective(2000px) rotateY(180deg);
-    }
+  0% {
+    -webkit-transform: perspective(2000px) rotateY(0);
+    -moz-transform: perspective(2000px) rotateY(0);
+    -ms-transform: perspective(2000px) rotateY(0);
+    -o-transform: perspective(2000px) rotateY(0);
+    transform: perspective(2000px) rotateY(0);
+  }
+  70% {
+    /* this creates the bounce effect */
+    -webkit-transform: perspective(2000px) rotateY(200deg);
+    -moz-transform: perspective(2000px) rotateY(200deg);
+    -ms-transform: perspective(2000px) rotateY(200deg);
+    -o-transform: perspective(2000px) rotateY(200deg);
+    transform: perspective(2000px) rotateY(200deg);
+  }
+  100% {
+    -webkit-transform: perspective(2000px) rotateY(180deg);
+    -moz-transform: perspective(2000px) rotateY(180deg);
+    -ms-transform: perspective(2000px) rotateY(180deg);
+    -o-transform: perspective(2000px) rotateY(180deg);
+    transform: perspective(2000px) rotateY(180deg);
+  }
 }
 @-webkit-keyframes cd-rotate-inverse {
-    0% {
-        -webkit-transform: perspective(2000px) rotateY(-180deg);
-    }
-    70% {
-        /* this creates the bounce effect */
-        -webkit-transform: perspective(2000px) rotateY(20deg);
-    }
-    100% {
-        -webkit-transform: perspective(2000px) rotateY(0);
-    }
+  0% {
+    -webkit-transform: perspective(2000px) rotateY(-180deg);
+  }
+  70% {
+    /* this creates the bounce effect */
+    -webkit-transform: perspective(2000px) rotateY(20deg);
+  }
+  100% {
+    -webkit-transform: perspective(2000px) rotateY(0);
+  }
 }
 @-moz-keyframes cd-rotate-inverse {
-    0% {
-        -moz-transform: perspective(2000px) rotateY(-180deg);
-    }
-    70% {
-        /* this creates the bounce effect */
-        -moz-transform: perspective(2000px) rotateY(20deg);
-    }
-    100% {
-        -moz-transform: perspective(2000px) rotateY(0);
-    }
+  0% {
+    -moz-transform: perspective(2000px) rotateY(-180deg);
+  }
+  70% {
+    /* this creates the bounce effect */
+    -moz-transform: perspective(2000px) rotateY(20deg);
+  }
+  100% {
+    -moz-transform: perspective(2000px) rotateY(0);
+  }
 }
 @keyframes cd-rotate-inverse {
-    0% {
-        -webkit-transform: perspective(2000px) rotateY(-180deg);
-        -moz-transform: perspective(2000px) rotateY(-180deg);
-        -ms-transform: perspective(2000px) rotateY(-180deg);
-        -o-transform: perspective(2000px) rotateY(-180deg);
-        transform: perspective(2000px) rotateY(-180deg);
-    }
-    70% {
-        /* this creates the bounce effect */
-        -webkit-transform: perspective(2000px) rotateY(20deg);
-        -moz-transform: perspective(2000px) rotateY(20deg);
-        -ms-transform: perspective(2000px) rotateY(20deg);
-        -o-transform: perspective(2000px) rotateY(20deg);
-        transform: perspective(2000px) rotateY(20deg);
-    }
-    100% {
-        -webkit-transform: perspective(2000px) rotateY(0);
-        -moz-transform: perspective(2000px) rotateY(0);
-        -ms-transform: perspective(2000px) rotateY(0);
-        -o-transform: perspective(2000px) rotateY(0);
-        transform: perspective(2000px) rotateY(0);
-    }
+  0% {
+    -webkit-transform: perspective(2000px) rotateY(-180deg);
+    -moz-transform: perspective(2000px) rotateY(-180deg);
+    -ms-transform: perspective(2000px) rotateY(-180deg);
+    -o-transform: perspective(2000px) rotateY(-180deg);
+    transform: perspective(2000px) rotateY(-180deg);
+  }
+  70% {
+    /* this creates the bounce effect */
+    -webkit-transform: perspective(2000px) rotateY(20deg);
+    -moz-transform: perspective(2000px) rotateY(20deg);
+    -ms-transform: perspective(2000px) rotateY(20deg);
+    -o-transform: perspective(2000px) rotateY(20deg);
+    transform: perspective(2000px) rotateY(20deg);
+  }
+  100% {
+    -webkit-transform: perspective(2000px) rotateY(0);
+    -moz-transform: perspective(2000px) rotateY(0);
+    -ms-transform: perspective(2000px) rotateY(0);
+    -o-transform: perspective(2000px) rotateY(0);
+    transform: perspective(2000px) rotateY(0);
+  }
 }
 @-webkit-keyframes cd-rotate-back {
-    0% {
-        -webkit-transform: perspective(2000px) rotateY(0);
-    }
-    70% {
-        /* this creates the bounce effect */
-        -webkit-transform: perspective(2000px) rotateY(-200deg);
-    }
-    100% {
-        -webkit-transform: perspective(2000px) rotateY(-180deg);
-    }
+  0% {
+    -webkit-transform: perspective(2000px) rotateY(0);
+  }
+  70% {
+    /* this creates the bounce effect */
+    -webkit-transform: perspective(2000px) rotateY(-200deg);
+  }
+  100% {
+    -webkit-transform: perspective(2000px) rotateY(-180deg);
+  }
 }
 @-moz-keyframes cd-rotate-back {
-    0% {
-        -moz-transform: perspective(2000px) rotateY(0);
-    }
-    70% {
-        /* this creates the bounce effect */
-        -moz-transform: perspective(2000px) rotateY(-200deg);
-    }
-    100% {
-        -moz-transform: perspective(2000px) rotateY(-180deg);
-    }
+  0% {
+    -moz-transform: perspective(2000px) rotateY(0);
+  }
+  70% {
+    /* this creates the bounce effect */
+    -moz-transform: perspective(2000px) rotateY(-200deg);
+  }
+  100% {
+    -moz-transform: perspective(2000px) rotateY(-180deg);
+  }
 }
 
 @keyframes cd-rotate-back {
@@ -1379,16 +1378,16 @@ xkeyframes
 }
 
 @-moz-keyframes cd-rotate-inverse-back {
-    0% {
-        -moz-transform: perspective(2000px) rotateY(180deg);
-    }
-    70% {
-        /* this creates the bounce effect */
-        -moz-transform: perspective(2000px) rotateY(-20deg);
-    }
-    100% {
-        -moz-transform: perspective(2000px) rotateY(0);
-    }
+  0% {
+    -moz-transform: perspective(2000px) rotateY(180deg);
+  }
+  70% {
+    /* this creates the bounce effect */
+    -moz-transform: perspective(2000px) rotateY(-20deg);
+  }
+  100% {
+    -moz-transform: perspective(2000px) rotateY(0);
+  }
 }
 
 @keyframes cd-rotate-inverse-back {
@@ -1519,7 +1518,7 @@ xkeyframes
 }
 
 /* For Footer Menu Section */
-.footer-menu{
+.footer-menu {
   background:#efefef;
   color:#000;
   border-bottom:1px solid #cfcdcd;
@@ -1572,12 +1571,12 @@ xkeyframes
   display:block;
 }
 .footer-brand {
-    float:left;
+  float:left;
 }
 
 /* Copyright */
 .copyright {
-    text-align:right;
+  text-align:right;
 }
 .copyright p {
   font-size: 1.125rem;
